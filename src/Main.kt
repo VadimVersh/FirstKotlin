@@ -13,6 +13,9 @@ fun main(args: Array<String>) {
         println("Переменная: $word")
     else
     { print("переменна Word  не равна значению null")
+
+
+        println(isHasCar)
     }
 
 
